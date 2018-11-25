@@ -1,6 +1,12 @@
 # Introduction
 This is my coursework for term 2 year 1 programming module at university.
 
+# Running the program
+1. Open IDE of choice
+2. Create new empty project
+3. Clone repository/Financial folder to your project
+4. Run `Main.cpp`
+
 # What is it?
 The module was programming with C++ and we had to create a project that used C++.
 
